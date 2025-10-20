@@ -69,9 +69,14 @@ All final posters and essays are in the [`/reports`](reports/) folder:
 
 ## Figures
 
-I’ll be adding small preview images of the posters here soon.  
-Place them in the `/figures` folder and link them like this:
+### 1. Leaders Map
+![Leaders Map](figures/leaders_preview.png)
 
-```markdown
-![Leaders map](figures/leaders_preview.png)
-![Manager map](figures/manager_preview.png)
+### 2. Who’s the Boss?
+![Manager Map](figures/manager_preview.png)
+
+### 3. Hexbin Wage Gap Map
+![Hexbin Map](figures/hexbin_preview.png)
+
+### 4. Feminicidio en México
+![Feminicidio Map](figures/femicide_preview.png)
